@@ -24,3 +24,4 @@ Fork this repository and add your name to the README!
  - Arun Kannawadi (arunkannawadi@princeton.edu)
  - Katie edits
  - Thomas Tichelbaecker
+ - Mehmet Sirin Demir
